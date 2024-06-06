@@ -1,0 +1,10 @@
+table, tr, th, td {
+    border: 1px solid #2aaa6e;
+    background-color: beige;
+}
+th {
+    background-color: burlywood;
+}
+p {
+    
+}
